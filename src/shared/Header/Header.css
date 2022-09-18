@@ -1,0 +1,16 @@
+.main-div-header {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 50px;
+}
+
+.header-links {
+    margin: 20px 50px;
+}
+
+.links {
+    margin: 0px 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
